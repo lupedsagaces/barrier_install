@@ -13,3 +13,6 @@ git clone https://github.com/lupedsagaces/barrier_install.git
 cd barrier_install
 chmod +x barrier_install.sh
 ./barrier_install.sh
+```
+
+Made with ❤️ by lupedsagaces
